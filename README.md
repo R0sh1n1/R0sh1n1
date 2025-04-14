@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @R0sh1n1
 - 👀 I’m interested in learn to designs, creative things
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through :linkedin.com/in/bimarasetty-roshini-082254231/
 
 <!---
