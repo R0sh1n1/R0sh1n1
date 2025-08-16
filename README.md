@@ -44,8 +44,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 roshini.yourmail@example.com
+- 💼 [LinkedIn] www.linkedin.com/in/bimarasetty-roshini-082254231/ 
+- 📧 bimarasettyroshini@gmail.com
 
 ---
 
@@ -59,5 +59,5 @@ If you're working on QA, automation, or Java-based projects and looking for cont
 
 <!---
 R0sh1n1/R0sh1n1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
